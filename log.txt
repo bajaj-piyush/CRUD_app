@@ -1,0 +1,6 @@
+1724401377192 : GET : /api/users/66c8461e8906c98fe76d0a6a 
+1724401454457 : DELETE : /api/users/66c8461e8906c98fe76d0a6a 
+1724401492728 : GET : /api/users/ 
+1724401506513 : POST : /api/users/ 
+1724423998689 : GET : /api/users/ 
+1724424101248 : PATCH : /api/users/66b7c7a996d0c715f9457e92 
